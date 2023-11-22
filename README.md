@@ -4,7 +4,7 @@ Pandora_next docker  Successfully deployed
 
 昨天潘多拉的旧版本一直用不了 ，上了github搜索了一下看到 pandora-next 的版本
 
-![Untitled]([https://prod-files-secure.s3.us-west-2.amazonaws.com/7f58abd8-2766-49ff-85ca-1beb85452d52/af8bde68-1ac5-467c-be59-f51bf49aa65c/Untitled.png](http://qinapi.yuefuture.top/img/https%253A%252F%252Fprod-files-secure.s3.us-west-2.amazonaws.com%252F7f58abd8-2766-49ff-85ca-1beb85452d52%252Faf8bde68-1ac5-467c-be59-f51bf49aa65c%252FUntitled.png?img/))
+![Untitled](http://qinapi.yuefuture.top/img/20231122162442.png?img/)
 
  安装教程走一直没成功 问问了开发者说不要用docker搭建
 
