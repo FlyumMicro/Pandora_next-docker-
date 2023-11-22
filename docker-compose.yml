@@ -1,0 +1,13 @@
+version: '3'
+services:
+  pandora-next:
+    image: pengzhile/pandora-next
+    container_name: PandoraNext
+    network_mode: bridge
+    restart: always
+    ports:
+      - "8899:8181"
+    environment:
+      - PANDORA_NEXT_LICENSE=${LICENSE_TOKEN}
+    volumes:
+      - /home/yue/docker_obj/ChatPandoraNov:/chat/data
